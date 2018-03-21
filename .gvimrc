@@ -1,16 +1,16 @@
-"ƒEƒCƒ“ƒhƒE‚Ìc•
+"ç¸¦å¹…
 set lines=55
 
-"ƒEƒCƒ“ƒhƒE‚Ì‰¡•
+"æ¨ªå¹…
 set columns=180
 
-"ƒJƒ‰[ƒXƒL[ƒ€
+"ã‚«ãƒ©ãƒ¼ã‚¹ã‚­ãƒ¼ãƒ 
 colorscheme koehler
 set background=dark
 
-"“§‰ß
+"é€é
 autocmd FocusGained * set transparency=220
 autocmd FocusLost * set transparency=128
 
-"ƒtƒHƒ“ƒg
+"ãƒ•ã‚©ãƒ³ãƒˆ
 set guifont=Ricty_Diminished_Discord:h11:cSHIFTJIS:qDRAFT
